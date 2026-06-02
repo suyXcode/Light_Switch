@@ -42,9 +42,6 @@ Light_Switch/
 ├── index.html
 ├── style.css
 ├── script.js
-├── images/
-│   ├── bulb-on.png
-│   └── bulb-off.png
 │
 └── README.md
 ```
