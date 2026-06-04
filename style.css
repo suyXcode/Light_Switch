@@ -10,6 +10,7 @@
   --cap: hsl(0, 0%, calc((40 + (var(--on) * 30)) * 1%));
   --filament: hsl(45, calc(var(--on) * 80%), calc((25 + (var(--on) * 75)) * 1%));
 }
+
 body {
   min-height: 100vh;
   display: flex;
@@ -63,6 +64,7 @@ body {
 .bulb__cap-shine {
   fill: var(--shine);
 }
+
 .bulb__cap-outline {
   stroke: var(--stroke);
 }
